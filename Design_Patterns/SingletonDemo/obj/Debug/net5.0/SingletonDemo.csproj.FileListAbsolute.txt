@@ -1,0 +1,16 @@
+G:\Design-Patterns\SingletonDemo\SingletonDemo\bin\Debug\net5.0\SingletonDemo.exe
+G:\Design-Patterns\SingletonDemo\SingletonDemo\bin\Debug\net5.0\SingletonDemo.deps.json
+G:\Design-Patterns\SingletonDemo\SingletonDemo\bin\Debug\net5.0\SingletonDemo.runtimeconfig.json
+G:\Design-Patterns\SingletonDemo\SingletonDemo\bin\Debug\net5.0\SingletonDemo.runtimeconfig.dev.json
+G:\Design-Patterns\SingletonDemo\SingletonDemo\bin\Debug\net5.0\SingletonDemo.dll
+G:\Design-Patterns\SingletonDemo\SingletonDemo\bin\Debug\net5.0\ref\SingletonDemo.dll
+G:\Design-Patterns\SingletonDemo\SingletonDemo\bin\Debug\net5.0\SingletonDemo.pdb
+G:\Design-Patterns\SingletonDemo\SingletonDemo\obj\Debug\net5.0\SingletonDemo.csproj.AssemblyReference.cache
+G:\Design-Patterns\SingletonDemo\SingletonDemo\obj\Debug\net5.0\SingletonDemo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Design-Patterns\SingletonDemo\SingletonDemo\obj\Debug\net5.0\SingletonDemo.AssemblyInfoInputs.cache
+G:\Design-Patterns\SingletonDemo\SingletonDemo\obj\Debug\net5.0\SingletonDemo.AssemblyInfo.cs
+G:\Design-Patterns\SingletonDemo\SingletonDemo\obj\Debug\net5.0\SingletonDemo.csproj.CoreCompileInputs.cache
+G:\Design-Patterns\SingletonDemo\SingletonDemo\obj\Debug\net5.0\SingletonDemo.dll
+G:\Design-Patterns\SingletonDemo\SingletonDemo\obj\Debug\net5.0\ref\SingletonDemo.dll
+G:\Design-Patterns\SingletonDemo\SingletonDemo\obj\Debug\net5.0\SingletonDemo.pdb
+G:\Design-Patterns\SingletonDemo\SingletonDemo\obj\Debug\net5.0\SingletonDemo.genruntimeconfig.cache
